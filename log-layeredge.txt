@@ -268,3 +268,6 @@
 [08:14:00 | 13-03-2025] Last Claim Point: 12/03/2025 01:12:40
 [08:14:01 | 13-03-2025] ✅ Points claimed for 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82
 [08:14:02 | 13-03-2025] 🚨 Failed to start node for 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82: [object Object]
+[11:19:23 | 13-03-2025] Wallet Address: 0x6065DA7b6ea55140cfFc3B4718303A4e41D53b82
+[11:19:23 | 13-03-2025] Node Points: 623901
+[11:19:23 | 13-03-2025] Last Claim Point: 13/03/2025 01:14:01
